@@ -1,0 +1,83 @@
+@media only screen and (max-width: 767px){
+    .navbar-default .navbar-collapse{
+        box-shadow: 0 0 8px 2px #00000012;
+        border-color: transparent;
+    }
+    .sec0-title {
+        font-size: 35px;
+        margin-top: 1em;
+    }
+    .sec0-subtitle{
+        font-size: 11px;
+    }
+    .sec0{
+        padding-bottom: 4em;
+    }
+    .left-content-wrap{
+        margin-left: 0px;
+    }
+    p.sec1-subtitle{
+        font-size: 11px;
+    }
+    .sec2{
+        padding-bottom: 20px;
+    }
+    .sec3{
+        padding-top: 10px;
+        padding-bottom: 4em;
+    }
+    h2.sec3-title{
+        margin-top: 0px;
+    }
+    .sec3 p.sec4-subtitle{
+        margin-top: 3.5em;
+        margin-bottom: 3.5em;
+        font-size: 11px;
+    }
+    .sec3-container{
+        margin-bottom: 4em;
+    }
+    .sec4 .sec4-left-wrap{
+        padding-left: 2em;
+    }
+    .sec4 h2.sec4-title{
+        margin-top: 3em;
+    }
+    .sec4 p.sec4-subtitle{
+        font-size: 11px;
+    }
+    p.subtitle-1{
+        font-size: 12px;
+    }
+    p.subtitle-2{
+        font-size: 12px;
+    }
+    .sec5 .card{
+        margin-bottom: 2.5em;
+    }
+    .last-card{
+        margin-bottom: 0px !important;
+    }
+    .sec6 {
+        padding: 2em 0 5em 0;
+    }
+    .left-pad-wrap {
+        padding-left: 2em;
+    }
+    .video-info{
+        line-height: 1.7em;
+    }
+    .mail-form {
+        max-width: 85%;
+        margin: 0 auto;
+    }
+    input.submitBtn{
+        margin-bottom: 3em;
+    }
+    .sec4-bg{
+        min-height: 400px;
+    }
+    .bg-image{
+        min-height: 500px;
+    }
+}
